@@ -2,6 +2,7 @@
 ## Eu sou o  Renann Souza!!
 
 - 💻 Atualmente cursando Análise e desenvolvimento de sistemas
+- 📕 Engenheiro civil
 - 📖  MBA em engenharia de software
 - ☕ Focado na linguaguem Java / Python
 - ✨ Participando de bootcamps na UDEMY, ADA, DIO.
