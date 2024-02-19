@@ -1,9 +1,9 @@
 # Olá, 
 ## Eu sou o  Renann Souza!!
 
-- 💻 Atualmente cursando Análise e desenvolvimento de sistemas.
-- 📖 Participando de uma formação acelerada de programação voltada a JavaScript.
-- ☕ Focado na linguaguem Java.
+- 💻 Atualmente cursando Análise e desenvolvimento de sistemas
+- 📖  MBA em engenharia de software
+- ☕ Focado na linguaguem Java / Python
 - ✨ Participando de bootcamps na UDEMY, ADA, DIO.
   
 - 💡 "Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças" .Leon C. Megginson
